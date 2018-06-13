@@ -21,3 +21,5 @@ menu:
     weight: 2
 ---
 Tutaj będą informacje o mnie!
+
+Cos
