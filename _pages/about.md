@@ -7,7 +7,7 @@ sub_heading: Tam dokąd wiodą skrzydła
 layout: landing-page
 textline: Autorka, terapełtka, miłośniczka życia, przyrody
 publish_date: 2017-12-01 04:00:00 +0000
-show_staff: true
+show_staff: false
 menu:
   footer:
     name: O mnie
