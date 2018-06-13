@@ -2,7 +2,7 @@
 title: O mnie
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/06/13/IMG-20171203-WA0086.jpg"
-heading: About Belkirk
+heading: O mnie
 sub_heading: Tam dokąd wiodą skrzydła
 layout: landing-page
 textline: Autorka, terapełtka, miłośniczka życia, przyrody
